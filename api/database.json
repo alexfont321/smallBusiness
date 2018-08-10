@@ -1,0 +1,52 @@
+{
+    
+        "departments": [
+            {
+                "department": "hr",
+                "id": 1
+            },
+            {
+                "department": "sales",
+                "id": 2
+            },
+            {
+                "department": "customer service",
+                "id": 3
+            }
+        ],
+        "computers": [
+            {
+                "computer": "Macbook",
+                "id": 1
+            },
+            {
+                "computer": "Dell",
+                "id": 2
+            },
+            {
+                "computer": "HP",
+                "id": 3
+            }
+        ],
+        "employees": [
+            {
+                "id": 1,
+                "name": "Rick",
+                "departmentId": 3,
+                "computerId": 1
+            },
+            {
+                "id": 2,
+                "name": "Stacy",
+                "departmentId": 2,
+                "computerId": 3
+            },
+            {
+                "id": 3,
+                "name": "Bob",
+                "departmentId": 2,
+                "computerId": 1
+            }
+        ]
+    
+}
